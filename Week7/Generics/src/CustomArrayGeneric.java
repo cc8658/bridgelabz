@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class CustomArray {
+class CustomArray {
 
     int[] data;
     static int DEFAULT_SIZE=10;
